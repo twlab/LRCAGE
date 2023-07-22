@@ -1,5 +1,5 @@
 # LRCAGE (long-read CAGE)
-This repository contains custom scripts, inclusing calling peaks, retaining a list of confident transcripts, and building a proteome database for immunopeptidome analysis.
+This repository contains custom scripts, inclusing calling peaks, retaining a list of confident transcripts, and building a proteome database for immunopeptidome analysis using LRCAGE data as input.
 
 1. Installation
    * Run scripts using docker images
